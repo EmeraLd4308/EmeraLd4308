@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![C#](https://img.shields.io) ![PostgreSQL](https://img.shields.io) ![Docker](https://img.shields.io)
 <!--
 **EmeraLd4308/EmeraLd4308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
