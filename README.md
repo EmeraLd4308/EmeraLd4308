@@ -3,5 +3,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=maui,java,androidstudio,react,scss,html,css,js)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,idea,webstorm,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,rider,idea,webstorm,docker,figma)](https://skillicons.dev)
 
