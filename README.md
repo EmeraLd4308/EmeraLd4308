@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,mongodb,mysql,postgres,supabase,firebase,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,mongodb,mysql,postgres,supabase,firebase)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=maui,java,androidstudio,react,scss,html,css,js)](https://skillicons.dev)
 
